@@ -1,0 +1,22 @@
+{
+  "name": "mi_app_nodejs",
+  "version": "1.0.0",
+  "description": "Node.js en Docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Winst0nPy/dh-infraestructura-ii-c14.git"
+  },
+  "author": "daniel cagliari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Winst0nPy/dh-infraestructura-ii-c14/issues"
+  },
+  "homepage": "https://github.com/Winst0nPy/dh-infraestructura-ii-c14#readme",
+  "dependencies": {
+    "express": "4.17.3"
+  }
+}
